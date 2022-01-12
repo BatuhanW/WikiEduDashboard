@@ -69,7 +69,7 @@
     "lodash.throttle": "^4.1.1",
     "lodash.where": "^3.1.0",
     "main-bower-files": "^2.0.0",
-    "markdown-it": "8.1.0",
+    "markdown-it": "12.3.2",
     "mcfly": "1.0.0",
     "merge-stream": "^1.0.1",
     "mkdirp": "^0.5.1",
